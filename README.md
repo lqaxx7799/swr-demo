@@ -21,7 +21,7 @@ hoặc
 
 ## Demo
 
-### Tạo custom hook với uséSWR
+### Tạo custom hook với useSWR
 
 [src/hook/useData.js](https://github.com/lqaxx7799/swr-demo/tree/master/src/hook/useData.js)
 
