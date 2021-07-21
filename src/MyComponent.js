@@ -2,7 +2,6 @@ import React from 'react';
 import useData from './hook/useData';
 
 const MyComponent = () => {
-
   const { data, isError, isLoading } = useData();
 
   if (isLoading) {
