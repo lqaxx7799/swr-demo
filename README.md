@@ -1,4 +1,4 @@
-# Demo sử dụng React với React Query để truy vấn dữ liệu
+# Demo sử dụng React với SWR để truy vấn dữ liệu
 
 Link tài liệu: [docs](https://swr.vercel.app/docs/getting-started)
 
