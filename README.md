@@ -21,9 +21,9 @@ hoặc
 
 ## Demo
 
-### Tạo custom hook với uswSWR
+### Tạo custom hook với uséSWR
 
-[src/hooks/useData.js](https://github.com/lqaxx7799/swr-demo/tree/master/src/hooks/useData.js)
+[src/hooks/useData.js](https://github.com/lqaxx7799/swr-demo/tree/master/src/hook/useData.js)
 
 - Hook `useData` có thể được truy cập ở các Component khác nhau.
 - Nếu gọi trong khoảng thời gian `dedupingInterval`, không tạo ra request mới mà lấy từ cache.
